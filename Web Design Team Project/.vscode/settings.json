@@ -1,0 +1,10 @@
+{
+    "liveshare.allowGuestDebugControl": true,
+    "liveshare.allowGuestTaskControl": true,
+    "launch": {
+        
+        
+        "configurations": [],
+        "compounds": []
+    }
+}
