@@ -1,15 +1,15 @@
 h1 {
-    color: #503420;
+    color: #b40404;
     font-family: Arial, sans-serif;
     text-align: center;
 }
 p {
-    color:#835b44;
+    color:#b40404;
     font-size: 18px;
     line-height: 1.5,
 }
 body {
-    background-color:#ecfffd;
+    background-color:#000000;
     margin: 0;
     padding: 20px;
 }
