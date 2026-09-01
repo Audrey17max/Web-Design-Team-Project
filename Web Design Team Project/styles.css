@@ -1,39 +1,63 @@
 h1 {
-    color: #b40404;
-    font-family: Arial, sans-serif;
+    color: #003558;
+    font-family: Arial Black, sans-serif;
+    text-align: center;
+}
+h2 {
+    color: #003558;
+    font-family: Arial Black, sans-serif;
     text-align: center;
 }
 p {
-    color:#b40404;
-    font-size: 18px;
+    color:#ff6969;
+    font-size: 20px;
     line-height: 1.5;
 }
 body {
-    background-color:#000000;
+    background-color:#d9f0ff;
     margin: 0;
     padding: 20px;
 }
 
 a:link {
-  color: rgb(85, 85, 82);
+  color: rgb(0, 53, 88);
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: rgb(255, 255, 255);
+  color: rgb(255, 105, 105);
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: rgb(180, 4, 4);
+  color: rgb(0, 53, 88);
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: rgb(255, 255, 255);
+  color: rgb(255, 128, 128);
   background-color: transparent;
   text-decoration: underline;
+}
+body {
+  font-family: 'Bauhaus Chez Bold';
+   font-weight: 700;
+   font-size: 20px;
+}
+nav {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;     /* Centers vertically */
+}
+
+.center-nav {
+  display: flex;
+  gap: 20px; /* Space between navigation links */
+}
+nav {
+  display: flex;       /* Aligns links horizontally */
+  gap: 20px;          /* Creates a 20px space between each item */
 }
