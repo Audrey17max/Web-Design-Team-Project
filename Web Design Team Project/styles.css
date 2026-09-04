@@ -8,6 +8,11 @@ h2 {
     font-family: Arial Black, sans-serif;
     text-align: center;
 }
+h5 {
+    color: #003558;
+    font-family: 'Franklin Gothic Medium', 'Arial Black', sans-serif;
+    text-align: center;
+}
 p {
     color:#ff6969;
     font-size: 20px;
