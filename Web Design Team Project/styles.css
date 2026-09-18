@@ -19,7 +19,8 @@ p {
     line-height: 1.5;
 }
 body {
-    background-color:#d9f0ff;
+    background-color:#D9F0FF;
+    linear-gradient(90deg,rgba(217, 240, 255, 1) 64%, rgba(255, 105, 105, 0.96) 100%);
     margin: 0;
     padding: 20px;
 }
