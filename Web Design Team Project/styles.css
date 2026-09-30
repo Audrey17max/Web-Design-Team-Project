@@ -73,5 +73,5 @@ img {
   display: block;
   margin: 50px auto; /* Centers the image horizontally */
   max-width: 100%; /* Ensures the image doesn't exceed its container's width */
-  height: auto;    /* Maintains the aspect ratio */
+  height: auto;
 }
