@@ -75,3 +75,9 @@ img {
   max-width: 100%; /* Ensures the image doesn't exceed its container's width */
   height: auto;
 }
+<style>
+.banner {
+    /* The image used */
+    background-image:;
+  }
+</style>
